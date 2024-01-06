@@ -2,6 +2,7 @@
   "material-icon-theme.folders.associations": {
     "(route)" : "Next",
     "_components" : "Components",
-    "_apis" : "API"
+    "_apis" : "API",
+    "_font" : "Font"
   }
 }
