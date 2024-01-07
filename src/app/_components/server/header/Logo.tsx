@@ -5,7 +5,7 @@ import { Center, Flex, Text } from '@chakra-ui/react';
 export const Logo = () => {
   return (
     <>
-      <Flex alignItems='center' gap='0.5rem'>
+      <Flex alignItems='center' gap='0.5rem' cursor='pointer' userSelect='none'>
         <Center w='65px' h='65px' border='3px solid #333' borderRadius='50%'>
           <FontAwesomeIcon icon={faLayerGroup} fontSize='40px' color='#333' />
         </Center>
